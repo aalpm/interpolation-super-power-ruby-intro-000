@@ -1,4 +1,4 @@
-aydin = ["Aydin", "1", "20/09/2020", "Boss Baby"]
+aydin = ["Aydin", "1", "20/09/2020", "Boss Baby!"]
 kristine = ["Kristine", "42", "29/04/1997", "FBI Agent!"]
 avni = ["Avni", "39", "09/06/1996", "CIA Agent!"]
 
